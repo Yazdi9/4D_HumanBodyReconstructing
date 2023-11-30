@@ -1,5 +1,17 @@
 # 4D & 3D Human Body Reconstruction on Videos 
 
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sabahesaraY)
+
+[![Twitter](https://img.shields.io/twitter/follow/sabahesaraki?style=social)](https://twitter.com/saba_hesaraki)
+
+[![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sabahesaraki)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+)](https://medium.com/@saba99)
+
+</div>
 
 <table class="center">
 
@@ -26,6 +38,10 @@ https://github.com/saba99/4D_HumanBodyReconstructing/assets/33378412/bd958d64-44
 <tr>
    <td>
     
+
+https://github.com/saba99/4D_HumanBodyReconstructing/assets/33378412/0fa04b71-efde-4e2e-b4c1-2fa0c61bf5ab
+
+
    </td>
    <td>
 
