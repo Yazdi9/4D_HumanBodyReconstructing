@@ -39,13 +39,18 @@ https://github.com/saba99/4D_HumanBodyReconstructing/assets/33378412/bd958d64-44
    <td>
     
 
-https://github.com/saba99/4D_HumanBodyReconstructing/assets/33378412/3d278a29-a881-4036-a736-d1e75a42f657
+https://github.com/saba99/4D_HumanBodyReconstructing/assets/33378412/04e03ad2-201c-48ed-afe6-9bac398daf2c
+
 
 
    </td>
    <td>
- 
-https://github.com/saba99/4D_HumanBodyReconstructing/assets/33378412/bd958d64-44fe-4786-be67-0ec1b108dcc2
+
+
+https://github.com/saba99/4D_HumanBodyReconstructing/assets/33378412/121e5b19-ca55-4e43-bf7a-a3f39570fdc8
+
+
+
 
    </td>
 </tr>
