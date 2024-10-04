@@ -2,14 +2,7 @@
 
 <div align="center">
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sabahesaraY)
-
-[![Twitter](https://img.shields.io/twitter/follow/sabahesaraki?style=social)](https://twitter.com/saba_hesaraki)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g5qxi6Oibd6RtmCqaMlRa62FlJPJENFB#scrollTo=XoBvsEG9Xuub) 
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)](https://medium.com/@saba99)
 
 </div>
 
